@@ -68,14 +68,11 @@ I specialize in **replacing slow, flaky testing with modern, reliable automation
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitlohia5&show_icons=true&theme=dracula&cache_seconds=1800)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-lohia&theme=dracula" />
+</p>
 
 
----
 
 ## 🤝 Let’s Connect
 
